@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_45"/>
+	<classpathentry kind="lib" path="lib/poi-3.10.1/poi-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.10.1/poi-examples-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.10.1/poi-excelant-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.10.1/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.10.1/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.10.1/poi-scratchpad-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.10.1/lib/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.10.1/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.10.1/ooxml-lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.10.1/ooxml-lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.10.1/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/xerces-2_11_0/resolver.jar"/>
+	<classpathentry kind="lib" path="lib/xerces-2_11_0/serializer.jar"/>
+	<classpathentry kind="lib" path="lib/xerces-2_11_0/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/xerces-2_11_0/xercesSamples.jar"/>
+	<classpathentry kind="lib" path="lib/xerces-2_11_0/xml-apis.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/TSC Utils"/>
+	<classpathentry kind="lib" path="/AutoScripter/lib/platypus.utils-v0.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

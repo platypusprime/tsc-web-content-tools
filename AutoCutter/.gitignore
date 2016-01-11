@@ -1,0 +1,6 @@
+/bin/
+
+/autocutter.config
+*.dll
+/lib/
+/tessdata/
